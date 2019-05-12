@@ -16,7 +16,8 @@
 }
 :host ::ng-deep .tabset1 .tab-content{
   background-color: #071F32;
-  color: #FFFFFF
+  color: #FFFFFF;
+  padding: 5%;
 
 }
 .wrapper{
